@@ -1,0 +1,9 @@
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo02_GetTimeFromBaidu\bin\Debug\Demo02_GetTimeFromBaidu.exe.config
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo02_GetTimeFromBaidu\bin\Debug\Demo02_GetTimeFromBaidu.exe
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo02_GetTimeFromBaidu\bin\Debug\Demo02_GetTimeFromBaidu.pdb
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo02_GetTimeFromBaidu\obj\Debug\Demo02_GetTimeFromBaidu.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo02_GetTimeFromBaidu\obj\Debug\Demo02_GetTimeFromBaidu.Form1.resources
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo02_GetTimeFromBaidu\obj\Debug\Demo02_GetTimeFromBaidu.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo02_GetTimeFromBaidu\obj\Debug\Demo02_GetTimeFromBaidu.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo02_GetTimeFromBaidu\obj\Debug\Demo02_GetTimeFromBaidu.exe
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo02_GetTimeFromBaidu\obj\Debug\Demo02_GetTimeFromBaidu.pdb

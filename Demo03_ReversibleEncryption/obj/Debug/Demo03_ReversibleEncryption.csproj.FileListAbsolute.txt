@@ -1,0 +1,9 @@
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo03_ReversibleEncryption\bin\Debug\Demo03_ReversibleEncryption.exe.config
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo03_ReversibleEncryption\bin\Debug\Demo03_ReversibleEncryption.exe
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo03_ReversibleEncryption\bin\Debug\Demo03_ReversibleEncryption.pdb
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo03_ReversibleEncryption\obj\Debug\Demo03_ReversibleEncryption.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo03_ReversibleEncryption\obj\Debug\Demo03_ReversibleEncryption.Form1.resources
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo03_ReversibleEncryption\obj\Debug\Demo03_ReversibleEncryption.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo03_ReversibleEncryption\obj\Debug\Demo03_ReversibleEncryption.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo03_ReversibleEncryption\obj\Debug\Demo03_ReversibleEncryption.exe
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo03_ReversibleEncryption\obj\Debug\Demo03_ReversibleEncryption.pdb

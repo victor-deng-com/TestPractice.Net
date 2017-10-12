@@ -1,0 +1,15 @@
+D:\workspace\visual studio\Projects\Github_private\NetPractice\Demo01_TryCatch\bin\Debug\Demo01_TryCatch.exe.config
+D:\workspace\visual studio\Projects\Github_private\NetPractice\Demo01_TryCatch\bin\Debug\Demo01_TryCatch.exe
+D:\workspace\visual studio\Projects\Github_private\NetPractice\Demo01_TryCatch\bin\Debug\Demo01_TryCatch.pdb
+D:\workspace\visual studio\Projects\Github_private\NetPractice\Demo01_TryCatch\obj\Debug\Demo01_TryCatch.csprojResolveAssemblyReference.cache
+D:\workspace\visual studio\Projects\Github_private\NetPractice\Demo01_TryCatch\obj\Debug\Demo01_TryCatch.Form1.resources
+D:\workspace\visual studio\Projects\Github_private\NetPractice\Demo01_TryCatch\obj\Debug\Demo01_TryCatch.Properties.Resources.resources
+D:\workspace\visual studio\Projects\Github_private\NetPractice\Demo01_TryCatch\obj\Debug\Demo01_TryCatch.csproj.GenerateResource.Cache
+D:\workspace\visual studio\Projects\Github_private\NetPractice\Demo01_TryCatch\obj\Debug\Demo01_TryCatch.exe
+D:\workspace\visual studio\Projects\Github_private\NetPractice\Demo01_TryCatch\obj\Debug\Demo01_TryCatch.pdb
+D:\workspace\visual studio\Projects\Github_private\NetTestPractice\Demo01_TryCatch\bin\Debug\Demo01_TryCatch.exe.config
+D:\workspace\visual studio\Projects\Github_private\NetTestPractice\Demo01_TryCatch\obj\Debug\Demo01_TryCatch.exe
+D:\workspace\visual studio\Projects\Github_private\NetTestPractice\Demo01_TryCatch\obj\Debug\Demo01_TryCatch.pdb
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo01_TryCatch\bin\Debug\Demo01_TryCatch.exe.config
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo01_TryCatch\obj\Debug\Demo01_TryCatch.exe
+D:\workspace\visual studio\Projects\Github_private\TestPractice.Net\Demo01_TryCatch\obj\Debug\Demo01_TryCatch.pdb
